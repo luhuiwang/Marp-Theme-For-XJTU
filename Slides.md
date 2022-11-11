@@ -2,7 +2,7 @@
 marp: true
 theme: default
 paginate: true
-footer: 2021年5月17日
+footer: 2022年11月11日
 style: |
   :root {
     font-family: Noto Sans SC;
@@ -146,30 +146,30 @@ img {
     }
 </style>
 或者:
-![w:2cm h:2cm](background.png)
+![w:2cm h:2cm](img/background.png)
 ```
 
-![w:2cm h:2cm](background.png)
+![w:2cm h:2cm](img/background.png)
 
 ---
 
 # 左右排布
 
 ```
-![bg left:40% w:5cm h:5cm](background.png)
+![bg left:40% w:5cm h:5cm](img/background.png)
 ```
 
-![bg left:40% w:5cm h:5cm](background.png)
+![bg left:40% w:5cm h:5cm](img/background.png)
 
 ---
 
 # 左右排布
 
 ```
-![bg right:40% w:5cm h:5cm](background.png)
+![bg right:40% w:5cm h:5cm](img/background.png)
 ```
 
-![bg right:40% w:5cm h:5cm](background.png)
+![bg right:40% w:5cm h:5cm](img/background.png)
 
 ---
 
